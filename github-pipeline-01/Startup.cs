@@ -13,7 +13,7 @@ namespace github_pipeline_01
 {
     public class Startup
     {
-        //initial desde github
+        //initial desde github 2
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
